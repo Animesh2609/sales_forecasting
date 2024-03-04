@@ -6,7 +6,8 @@ Goal: The goal of this project was to apply various quantitative methods, (i.e. 
 
 * Perform time series analysis to understand the data and trends
 * Use multiple forecasting models on train dataset
-  Finally select the best model to run the test data
+
+Finally select the best model to run the test data
 Models covered in the notebook include:
 1. Seasonal Naive Model
 2. Winters Model (Triple Exponential Smoothing)
